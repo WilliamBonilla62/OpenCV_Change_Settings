@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/william/Documents/douleur/Camera/Testing/GUI_FOR_SETTINGS/data_settings.h
+
+/home/william/Documents/douleur/Camera/Testing/GUI_FOR_SETTINGS/main.cpp
+opencv2/highgui/highgui.hpp
+-
+opencv2/videoio/videoio.hpp
+-
+opencv2/core/mat.hpp
+-
+opencv2/opencv.hpp
+-
+iostream
+-
+iostream
+-
+fstream
+-
+sys/types.h
+-
+sys/stat.h
+-
+data_settings.h
+/home/william/Documents/douleur/Camera/Testing/GUI_FOR_SETTINGS/data_settings.h
+

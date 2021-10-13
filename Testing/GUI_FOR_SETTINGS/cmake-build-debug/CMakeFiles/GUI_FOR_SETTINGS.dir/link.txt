@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GUI_FOR_SETTINGS.dir/main.cpp.o CMakeFiles/GUI_FOR_SETTINGS.dir/data_settings.cpp.o  -o GUI_FOR_SETTINGS  -lopencv_core -lopencv_highgui -lopencv_videoio -lopencv_imgcodecs 
